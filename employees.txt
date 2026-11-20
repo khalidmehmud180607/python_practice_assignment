@@ -1,0 +1,10 @@
+Employee info
+Employee name: Khalid
+Employee Id : 32094
+Employee salary : 3000
+
+Employee info
+Employee name: Nafi
+Employee Id : 2944
+Employee salary : 439848
+

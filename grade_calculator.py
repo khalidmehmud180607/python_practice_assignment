@@ -18,4 +18,3 @@ elif average>=40 :
     print("Final Grade: C")
 else:
     print("Final Grade: F")
-
